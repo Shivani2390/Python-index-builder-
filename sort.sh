@@ -1,0 +1,1 @@
+LC_ALL='C' sort *.dat -k1,1n -o FinalPostings.dat -i -b --buffer-size=1024
